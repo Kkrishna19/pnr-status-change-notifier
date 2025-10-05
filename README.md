@@ -30,7 +30,7 @@ Go to your repo → Settings → Secrets and variables → Actions → New repos
 ## Add these secrets (comma-separated lists, aligned by position):
 -	PNR_LIST → List of PNR numbers
 -	Example: 1234567890,2345678901
--	EMAIL_LIST → List of emails (each mapped to corresponding PNR)
+-	RECIPIENT_EMAILS → List of emails (each mapped to corresponding PNR)
 -	Example: user1@example.com,user2@example.com
 -	QUEUE_LIST → List of ntfy.sh queue names (each mapped to corresponding PNR)
 -	Example: pnr1234,pnr5678
