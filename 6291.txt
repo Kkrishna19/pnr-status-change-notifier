@@ -1,1 +1,1 @@
-#1->Current: GNWL  31 Berth: 31 Coach: #2->Current: GNWL  32 Berth: 32 Coach: #3->Current: GNWL  33 Berth: 33 Coach: _CacheTime: 2025-10-08T01:59:35.5812498+05:30_CheckedAt: 2025-10-08 02:15:31
+#1->Current: GNWL  31 Berth: 31 Coach: #2->Current: GNWL  32 Berth: 32 Coach: #3->Current: GNWL  33 Berth: 33 Coach: _CacheTime: 0001-01-01T00:00:00_CheckedAt: 2025-10-08 02:30:37
